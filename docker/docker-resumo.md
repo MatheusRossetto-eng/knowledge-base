@@ -4,6 +4,13 @@ Este repositório contém informações essenciais sobre **Docker**, incluindo c
 
 ---
 
+## ✍️ Autor
+
+- **Matheus Rossetto**  
+- Data: *01/10/2025*
+
+---
+
 ## 🔹 O que são Imagens Docker?
 
 Uma **imagem Docker** é um pacote leve, standalone e executável que contém tudo que é necessário para rodar um software: código, runtime, bibliotecas, variáveis de ambiente e arquivos de configuração.  

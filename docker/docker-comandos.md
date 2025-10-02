@@ -7,8 +7,8 @@ Este documento reúne os principais comandos do **Docker**, servindo como refer�
 ## ✍️ Autor
 
 - **Matheus Rossetto**  
-- Data: *01/10/2025*  
-a
+- Data: *01/10/2025*
+
 ---
 
 ## 🚀 Comandos Essenciais do Docker
